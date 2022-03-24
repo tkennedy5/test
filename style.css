@@ -1,11 +1,13 @@
-.site-header {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 30px;
-}
-
-.main-nav ul {
-  display: flex;
-}
+/*
+  Theme Name: HTML5 Blank Slate
+  Theme URI: https://github.com/FernE97/html5-blank-slate
+  Description: Bootstrap 5 starter theme
+  Author: side•sea
+  Author URI: https://sidesea.com/
+  Version: 1.0.0
+  License: WTFPL
+  License URI: http://sam.zoy.org/wtfpl/
+  Tags: blank, html5, sass, responsive
+*/
 
 /*# sourceMappingURL=style.css.map */
