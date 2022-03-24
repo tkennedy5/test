@@ -1,0 +1,14 @@
+// Variables
+@import 'variables';
+
+
+
+.site-header {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 30px;
+}
+.main-nav ul {
+  display: flex;
+
+}
